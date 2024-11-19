@@ -9,5 +9,10 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CalciumArgon&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalciumArgon&layout=compact&langs_count=8&theme=solarized-light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalciumArgon&layout=compact&langs_count=8&theme=moltack"/>
 </div>
+
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CalciumArgon&theme=green" alt="activity graph" style="width: 75%; height: auto;">
+</p>
