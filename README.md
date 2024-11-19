@@ -14,5 +14,5 @@
 
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CalciumArgon&theme=green" alt="activity graph" style="width: 75%; height: auto;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CalciumArgon&theme=green" alt="activity graph" style="width: 80%; height: auto;">
 </p>
